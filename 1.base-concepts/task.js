@@ -22,7 +22,6 @@ function solveEquation(a, b, c) {
   }
   return arr;
 }
-solveEquation(a, b, c);
 
 
 function calculateTotalMortgage(percent, contribution, amount, countMonths) {
